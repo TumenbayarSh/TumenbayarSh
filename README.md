@@ -11,6 +11,11 @@ I'm a passionate **Software Engineer** with over 7 years of experience in full-s
 - 📫 How to reach me: [tumenbayar.shiirev@gmail.com](mailto:tumenbayar.shiirev@gmail.com)
 - 🌐 Check out my portfolio: [tumenbayar.me](https://tumenbayar.me)
 
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tumenbayarsh/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tumenbayar.shiirev@gmail.com)
+
 ## 🛠️ Skills & Technologies
 
 ### Programming Languages
@@ -94,8 +99,3 @@ I'm a passionate **Software Engineer** with over 7 years of experience in full-s
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=TumenbayarSh&theme=onedark)
 -->
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tumenbayarsh/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tumenbayar.shiirev@gmail.com)
