@@ -6,7 +6,7 @@
 
 I'm a passionate **Software Engineer** with over 7 years of experience in full-stack development, specializing in AI-driven applications, web and mobile solutions, and cloud architecture. I'm proficient in Java, JavaScript (React.js, Node.js), TypeScript, Python, Docker, and AWS. I love building scalable and efficient applications that enhance user engagement and operational efficiency, and I continuously learn new technologies to drive innovation.
 
-- 🌱 I’m currently learning **Advanced AI and Machine Learning techniques, Kubernetes orchestration, and DevOps best practices**
+- 🌱 I’m currently learning **Advanced AI and Machine Learning techniques**
 - 💼 I’m open to **full-time job opportunities in the USA**
 - 📫 How to reach me: [tumenbayar.shiirev@gmail.com](mailto:tumenbayar.shiirev@gmail.com)
 - 🌐 Check out my portfolio: [tumenbayar.me](https://tumenbayar.me)
