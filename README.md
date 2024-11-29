@@ -98,4 +98,8 @@ I'm a passionate **Software Engineer** with over 7 years of experience in full-s
 ## 🏆 Achievements
 
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=TumenbayarSh&theme=onedark)
+
+![GitHub Stats](https://tumenbayar-github-stats.vercel.app/api?username=TumenbayarSh&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)
+
+![Top Languages](https://tumenbayar-github-stats.vercel.app/api/top-langs/?username=TumenbayarSh&size_weight=0&count_weight=1&langs_count=20&hide=css,html,scss,cmake,Ruby,Shell,Objective-C++,Sass,Lua,Dockerfile,Swift,Less,EJS,C,Starlark)
 -->
